@@ -1,0 +1,35 @@
+#divForForm {
+    width: 350px;
+    height: 150px;
+    margin-left: 100px;
+    margin-top: 200px;
+    background-color: gray;
+    font-size: 26px;
+}
+#divForForm input{
+	height:60px;
+	width:100%;
+	border:none;
+	font-size: 26px;
+}
+table{
+   	width: 350px;
+    height: 250px;
+    background-color:gray;
+}
+.title {
+   	background-color: gray;
+    height: 60px;
+}
+.context {
+ 	background-color: gray;
+    height: 60px;
+    font-size: 26px;
+}
+#login1,#register{
+	float:left;
+	background-color:green;
+	margin:5px;
+	margin-top:0px;
+	border-radius:6px;
+}
